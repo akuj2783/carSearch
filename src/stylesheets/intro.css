@@ -1,0 +1,38 @@
+/* Intro.css */
+
+.introContainer {
+    background-image: url('../images/wallpaper.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+    color: #caccd0;
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  
+  h1 {
+    font-size: 3.2rem;
+    margin-top: 1rem; 
+    font-weight: bold; 
+  }
+  
+  .introContainer h4 {
+    font-size: 1.5rem;
+    margin-top: 1rem; 
+    color: rgb(255, 255, 255);
+  }
+  
+  .pageLink {
+    color: #a3eef1;
+    text-decoration:underline 2.5px  rgb(53, 185, 234);
+  }
+  
+  .pageLink:hover {
+    text-decoration: none;
+  }
+  

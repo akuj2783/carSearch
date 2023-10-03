@@ -1,0 +1,113 @@
+.cardDiv {
+    display: flex;
+    flex-wrap: wrap; /* Allow cards to wrap to the next line */
+    justify-content: space-around; /* Add spacing between cards */
+    margin: -10px; /* Remove margin added by card-container */
+    margin-bottom: 30px;
+  }
+  
+  .card-container {
+    width: calc(30% - 10px); /* Set the width of each card with spacing */
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #f1f6fc;
+    height:60vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column; /* Stack content vertically */
+  }
+  .card-container:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-image {
+    overflow: hidden;
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    padding: 5px;
+  }
+  
+  .part1,
+  .part2,
+  .part3 {
+    display: flex;
+    flex-direction: row; /* Place content in the same row */
+    /* align-items: center; */
+    margin-top: 10px;
+  }
+
+  .part1 {
+    color: #393952;
+    display: flex;
+    justify-content: space-between; /* Space items to opposite ends */
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .year {
+    border: 1px dotted #4999ec; /* Add a dotted box around year */
+    border-radius: 10px;
+    font-weight:380;
+    font-size:15px;
+    padding: 3px 8px; /* Adjust padding for better appearance */
+  }
+  
+  .part2 {
+    color: #393952;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column; /* Display content in two columns */
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+
+  .part2a,
+  .part2b{
+    display: flex;
+  }
+  .part2a{
+    margin-bottom:-15px;
+  }
+
+  .seat{
+    padding-right:150px;
+  }
+  .mileage{
+    padding-right:124px;
+  }
+
+  .seatIcon,
+  .fuelIcon,
+  .mileageIcon,
+  .modeIcon{
+    height:30px;
+    width: 30px;
+    margin-right: 10px;
+  }
+  
+  
+  .part3 {
+    color: #393952;
+    margin-top: 10px;
+    text-align: center;
+    align-items: baseline;
+    justify-content: space-between;
+  }
+
+  .part3 h6{
+    margin-left: -245px;
+  }
+  
+  .rent-button {
+    background-color: #4999ec;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  

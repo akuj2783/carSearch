@@ -1,0 +1,202 @@
+{
+    "cars": [
+      {
+        "id": 1,
+        "name": "Toyota RAV4",
+        "image": "../src/images/img1.jpg",
+        "year": 2021,
+        "seat": 4,
+        "fuel": "hybrid",
+        "mileage": "6.1km/1-litre",
+        "mode": "automatic",
+        "rentPrice": 440
+      },
+      {
+        "id": 2,
+        "name": "Honda Civic",
+        "image": "../src/images/img2.jpg",
+        "year": 2022,
+        "seat": 5,
+        "fuel": "gasoline",
+        "mileage": "7.2km/1-litre",
+        "mode": "manual",
+        "rentPrice": 420
+      },
+      {
+        "id": 3,
+        "name": "Ford Escape",
+        "image": "../src/images/img3.jpg",
+        "year": 2020,
+        "seat": 5,
+        "fuel": "hybrid",
+        "mileage": "5.8km/1-litre",
+        "mode": "automatic",
+        "rentPrice": 450
+      },
+      {
+        "id": 4,
+        "name": "Nissan Rogue",
+        "image": "../src/images/img4.jpg",
+        "year": 2021,
+        "seat": 5,
+        "fuel": "gasoline",
+        "mileage": "7.5km/1-litre",
+        "mode": "manual",
+        "rentPrice": 430
+      },
+      {
+        "id": 5,
+        "name": "Chevrolet Equinox",
+        "image": "../src/images/img5.jpg",
+        "year": 2022,
+        "seat": 5,
+        "fuel": "hybrid",
+        "mileage": "5.7km/1-litre",
+        "mode": "automatic",
+        "rentPrice": 460
+      },
+      {
+        "id": 6,
+        "name": "Subaru Outback",
+        "image": "../src/images/img6.jpg",
+        "year": 2020,
+        "seat": 5,
+        "fuel": "gasoline",
+        "mileage": "7.0km/1-litre",
+        "mode": "manual",
+        "rentPrice": 410
+      },
+      {
+        "id": 7,
+        "name": "Hyundai Tucson",
+        "image": "../src/images/img7.jpg",
+        "year": 2021,
+        "seat": 5,
+        "fuel": "hybrid",
+        "mileage": "6.0km/1-litre",
+        "mode": "automatic",
+        "rentPrice": 470
+      },
+      {
+        "id": 8,
+        "name": "Kia Sportage",
+        "image": "../src/images/img8.jpg",
+        "year": 2022,
+        "seat": 5,
+        "fuel": "gasoline",
+        "mileage": "7.3km/1-litre",
+        "mode": "manual",
+        "rentPrice": 415
+      },
+      {
+        "id": 9,
+        "name": "Mazda CX-5",
+        "image": "../src/images/img9.jpg",
+        "year": 2020,
+        "seat": 5,
+        "fuel": "hybrid",
+        "mileage": "5.9km/1-litre",
+        "mode": "automatic",
+        "rentPrice": 455
+      },
+      {
+        "id": 10,
+        "name": "Volkswagen Tiguan",
+        "image": "../src/images/img10.jpg",
+        "year": 2021,
+        "seat": 5,
+        "fuel": "gasoline",
+        "mileage": "7.1km/1-litre",
+        "mode": "manual",
+        "rentPrice": 425
+      },
+      {
+        "id": 11,
+        "name": "Audi Q5",
+        "image": "../src/images/img11.jpg",
+        "year": 2022,
+        "seat": 5,
+        "fuel": "hybrid",
+        "mileage": "6.2km/1-litre",
+        "mode": "automatic",
+        "rentPrice": 465
+      },
+      {
+        "id": 12,
+        "name": "Jeep Cherokee",
+        "image": "../src/images/img12.jpg",
+        "year": 2020,
+        "seat": 5,
+        "fuel": "gasoline",
+        "mileage": "7.4km/1-litre",
+        "mode": "manual",
+        "rentPrice": 435
+      },
+      {
+        "id": 13,
+        "name": "Tesla Model Y",
+        "image": "../src/images/img6.jpg",
+        "year": 2021,
+        "seat": 5,
+        "fuel": "electric",
+        "mileage": "4.5km/1-litre (equivalent)",
+        "mode": "automatic",
+        "rentPrice": 490
+      },
+      {
+        "id": 14,
+        "name": "BMW X3",
+        "image": "../src/images/img1.jpg",
+        "year": 2022,
+        "seat": 5,
+        "fuel": "hybrid",
+        "mileage": "6.3km/1-litre",
+        "mode": "manual",
+        "rentPrice": 470
+      },
+      {
+        "id": 15,
+        "name": "Mercedes-Benz GLC",
+        "image": "../src/images/img2.jpg",
+        "year": 2020,
+        "seat": 5,
+        "fuel": "gasoline",
+        "mileage": "7.6km/1-litre",
+        "mode": "automatic",
+        "rentPrice": 440
+      },
+      {
+        "id": 16,
+        "name": "Lexus NX",
+        "image": "../src/images/img3.jpg",
+        "year": 2021,
+        "seat": 5,
+        "fuel": "hybrid",
+        "mileage": "6.4km/1-litre",
+        "mode": "manual",
+        "rentPrice": 455
+      },
+      {
+        "id": 17,
+        "name": "Volvo XC60",
+        "image": "../src/images/img4.jpg",
+        "year": 2022,
+        "seat": 5,
+        "fuel": "gasoline",
+        "mileage": "7.7km/1-litre",
+        "mode": "automatic",
+        "rentPrice": 425
+      },
+      {
+        "id": 18,
+        "name": "Porsche Cayenne",
+        "image": "../src/images/img5.jpg",
+        "year": 2020,
+        "seat": 5,
+        "fuel": "hybrid",
+        "mileage": "6.5km/1-litre",
+        "mode": "manual",
+        "rentPrice": 490
+      }
+        ]}
+  

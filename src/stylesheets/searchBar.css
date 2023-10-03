@@ -1,0 +1,34 @@
+.search-container {
+    width: 98%; /* Set the width to 30% of the horizontal space */
+    margin: 10px; /* Add some margin for spacing */
+    background-color: #f5f5f5; /* Subtle grey background color */
+    border-radius: 4px; /* Add rounded corners */
+    box-shadow: 0px 0px 5px 2px #ccc; /* Add subtle shadow */
+    display: flex; /* Ensure child elements are side-by-side */
+    align-items: center; /* Vertically center the child elements */
+  }
+  
+  .search-bar {
+    display: flex; /* Ensure input and icon are side-by-side */
+    align-items: center; /* Vertically center the input and icon */
+    width: 30%; /* Use the full width inside the container */
+    padding: 15px; /* Add some padding for spacing */
+  }
+  
+  .search-input {
+    border: none;
+    outline: none;
+    width: 100%; /* Use the full width of the container */
+    padding: 8px; /* Adjust padding as needed */
+    margin-right: 5px; /* Add some spacing between input and icon */
+    border-radius: 15px; /* Add rounded corners */
+  }
+  
+  .search-icon {
+    width: 20px; /* Adjust the width and height as needed */
+    color:#746f6f ;
+    height: 20px;
+    margin-right: 5px; /* Add some spacing between icon and input */
+    margin-left:-33px
+  }
+  
